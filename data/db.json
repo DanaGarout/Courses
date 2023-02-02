@@ -1,0 +1,108 @@
+{
+    "products":[
+        {
+            "id":10001,
+            "name": "Basics to Advanced In React",
+            "lang":"React",
+            "price": 99,
+            "in_stock":true
+
+        }, 
+        {
+            "id":10002,
+            "name": "CSS - The Complete Guide 2023 (incl. Flexbox, Grid & Sass)",
+            "lang":"CSS",
+            "price": 20,
+            "in_stock":true
+        },
+        {
+            "id":10003,
+            "name": "JavaScript Basics for Beginners",
+            "lang":"Javascript",
+            "price": 20,
+            "in_stock":true
+
+        },
+        
+        {
+            "id":10004,
+            "name": "Modern HTML & CSS From The Beginning (Including Sass)",
+            "lang":"HTML",
+            "price": 18,
+            "in_stock":false
+
+        },
+        
+        
+        {
+            "id":10005,
+            "name": "Advanced CSS and Sass: Flexbox, Grid, Animations and More!",
+            "lang":"CSS",
+            "price": 17,
+            "in_stock":true
+        },
+        {
+            "id":10006,
+            "name": "Modern React with Redux [2023 Update]",
+            "lang":"React",
+            "price": 15,
+            "in_stock":false
+
+        },
+        {
+            "id":10007,
+            "name": "JavaScript: The Advanced Concepts (2023 Update)",
+            "lang":"Javascript",
+            "price": 20,
+            "in_stock":true
+
+        },
+        {
+            "id":10008,
+            "name": "React Tutorial and Projects Course (2023)",
+            "lang":"React",
+            "price": 13,
+            "in_stock":true
+
+        },
+        {
+            "id":10009,
+            "name": "The Complete Guide to HTML",
+            "lang":"HTML",
+            "price": 18,
+            "in_stock":false
+
+        },
+        {
+            "id":10010,
+            "name": "Creative Advanced CSS Animations - Create 100 Projects!",
+            "lang":"CSS",
+            "price": 39,
+            "in_stock":true
+        },
+        {
+            "id":10011,
+            "name": "JavaScript - The Complete Guide 2023 (Beginner + Advanced)",
+            "lang":"Javascript",
+            "price": 50,
+            "in_stock":true
+
+        },
+        
+        {
+            "id":10012,
+            "name": "HTML - Introduction to HTML Web Development",
+            "lang":"HTML",
+            "price": 13,
+            "in_stock":true
+        }
+        
+        
+        
+        
+
+        
+        
+    ]
+
+}
